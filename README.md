@@ -17,8 +17,5 @@ I am a Digital Driven Business student at the **Amsterdam University of Applied 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoungJun173&show_icons=true&theme=radical)
-
 ---
 [Connect with me on LinkedIn](www.linkedin.com/in/john-patrick-britten-855958216) | [Email Me](mailto:johnpatrick.jpb3@gmail.com)
