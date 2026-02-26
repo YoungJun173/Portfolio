@@ -1,6 +1,6 @@
-# Hi there, I'm John-Patrick Britten, but you can call me Jun
+# Hi there, I'm Jun
 
-I am a Digital Driven Business student at the **Amsterdam University of Applied Sciences (HvA)**.
+I am currently a Digital Driven Business student at the **Amsterdam University of Applied Sciences (HvA)**.
 
 ### 🔭 Current Status
 * 🎓 **Studying:** Business Administration / Data Science at HvA
