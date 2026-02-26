@@ -4,8 +4,8 @@ I am a Digital Driven Business student at the **Amsterdam University of Applied 
 
 ### 🔭 Current Status
 * 🎓 **Studying:** Business Administration / Data Science at HvA
-* 🌱 **Learning:** [Subject, e.g., Cloud Computing / React Native]
-* 💼 **Looking for:** Internships / Junior Data Analyst roles in Amsterdam
+* 🌱 **Learning:** Machine Learning, Data Analysis and Business Practices
+* 💼 **Looking for:** Junior Data Analyst roles in Amsterdam
 
 ### 🛠 Tech Stack
 **Languages & Databases:**
